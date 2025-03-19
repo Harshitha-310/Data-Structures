@@ -6,11 +6,9 @@ Author: Sudha Harshitha
 <p>
   This containes my project on "ENERGY MANAGEMENT SYSTEM" in between shopkeeper and the customer
   This is implimented using
-  <br>
   <ul>
     <li> Arrays </li>
     <li> Linked List </li>
   </ul>
-  <br>
   FILE HANDLING is also included to put its work at ease
 </p>
