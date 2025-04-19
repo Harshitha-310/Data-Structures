@@ -7,7 +7,7 @@ Author: Sudha Harshitha
   This containes my project on "ENERGY MANAGEMENT SYSTEM" in between shopkeeper and the customer
   This is implimented using
   <ul>
-    <li> Linked List </li>
+    <li> B+ Trees </li>
     <li> Linked List </li>
     <li> Arrays </li>
   </ul>
