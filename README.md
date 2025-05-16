@@ -4,7 +4,8 @@ This Repository contains all my DSPD Projects
 Author: Sudha Harshitha
 <br>
 <p>
-  This containes my project on "ENERGY MANAGEMENT SYSTEM" in between shopkeeper and the customer
+  This containes my project on "ENERGY MANAGEMENT SYSTEM" between shopkeeper and the customer
+  <br>
   This is implimented using
   <ul>
     <li> B+ Trees </li>
